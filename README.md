@@ -7,7 +7,6 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 Make sure to install dependencies:
 
 ```bash
-# yarn
 yarn install
 ```
 
@@ -16,7 +15,6 @@ yarn install
 Start the development server on `http://localhost:3000`:
 
 ```bash
-# yarn
 yarn dev
 ```
 
@@ -25,14 +23,12 @@ yarn dev
 Build the application for production:
 
 ```bash
-# yarn
 yarn build
 ```
 
 Locally preview production build:
 
 ```bash
-# yarn
 yarn preview
 ```
 
