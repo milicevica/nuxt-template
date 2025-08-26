@@ -5,7 +5,7 @@
     </h1>
 
     <button class="btn btn-primary">
-      Primary
+      Primary <Icon name="tabler:map" size="24" />
     </button>
   </div>
 </template>
