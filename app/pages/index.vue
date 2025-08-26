@@ -1,7 +1,7 @@
 <template>
   <div class="hero bg-base-200 container mx-auto mt-4">
     <div class="hero-content text-center min-h-64">
-      <div class="max-w-md">
+      <div>
         <h1 class="text-5xl font-bold">
           Welcome to My App!
         </h1>
