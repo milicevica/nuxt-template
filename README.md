@@ -7,7 +7,7 @@
 - Linting with [@nuxt/eslint](https://nuxt.com/modules/eslint) and [antfu config](https://github.com/antfu/eslint-config)
 - [Tailwindcss](https://tailwindcss.com/)
 - [DaisyUI](https://daisyui.com/)
-- [@nuxtjs/color-mode](https://nuxt.com/modules/color-mode) for theme switch between dark & ligh
+- [@nuxtjs/color-mode](https://nuxt.com/modules/color-mode) for theme switch between dark & light theme
 - [@nuxtjs/icon](https://nuxt.com/modules/icon) & [tabler](https://icones.js.org/collection/tabler) for icon set
 - [husky](https://github.com/typicode/husky) & [lint-staged](https://github.com/lint-staged/lint-staged) for linting on commit
 
